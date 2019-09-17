@@ -4,4 +4,5 @@ for(i=1 ; i<= cantidad; i++){
     frases = readline.question("Frase: ");
     console.log("\n");
     console.log("la frase es: " + frases);
+    console.log("Van " + i + " frases");
 }
